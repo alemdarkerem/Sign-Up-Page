@@ -1,2 +1,2 @@
 # Sign-Up-Page
-made using React and springboot
+Completed using React and Springboot.
